@@ -6,8 +6,8 @@ module.exports = {
 
   HOST: "sql.freedb.tech",
   USER: "freedb_Pongsakorn",
-  PASSWORD: "57t@PWn!jxQ5h*#",
-  DB: "freedb_webhw5",
-  
+  PASSWORD: "!kc@CC62tCjg8nQ",
+  DB: "freedb_BackendHw5",
+
 };
 
