@@ -9,9 +9,9 @@ module.exports = {
   // PASSWORD: "pscale_pw_8rQhFwuFCZz1MLu8JLhHW9bOGqQy9B56itzzmDC9EKK",
   // DB: "backenddb",
 
-  // HOST: "sql.freedb.tech",
-  // USER: "freedb_Pongsakorn",
-  // PASSWORD: "qSgFY9EK&dy9TgQ",
-  // DB: "freedb_BackendDB",
+  HOST: "sql.freedb.tech",
+  USER: "freedb_Pongsakorn",
+  PASSWORD: "qSgFY9EK&dy9TgQ",
+  DB: "freedb_BackendDB",
 };
 
